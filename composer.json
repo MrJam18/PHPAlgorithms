@@ -1,0 +1,19 @@
+{
+    "name": "jam18/php-algorithms",
+    "description": "php algorithms",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jam18\\PhpAlgorithms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrJam18",
+            "email": "mr.jam18@yandex.ru"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}

@@ -5,10 +5,10 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Jam18\PhpAlgorithms\" />
+      <sourceFolder url="file://$MODULE_DIR$/structureTemplates/src" isTestSource="false" packagePrefix="Jam18\StructureTemplates\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="PHP Advanced" />
   </component>
 </module>

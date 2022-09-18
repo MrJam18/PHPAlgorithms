@@ -4,7 +4,8 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Jam18\\PhpAlgorithms\\": "src/"
+            "Jam18\\PhpAlgorithms\\": "src/",
+            "Jam18\\StructureTemplates\\": "structureTemplates/src/"
         }
     },
     "authors": [

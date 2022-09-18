@@ -26,6 +26,4 @@ abstract class AbstractConnectionBuilder
     {
         return $this->queryBuilder;
     }
-
-    abstract function getQueryBuilder():AbstractQueryBuilder;
 }

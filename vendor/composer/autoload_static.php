@@ -9,11 +9,16 @@ class ComposerStaticInit0e0b6af5dd2e4e770b76a8e944048c28
     public static $prefixLengthsPsr4 = array (
         'J' => 
         array (
+            'Jam18\\StructureTemplates\\' => 25,
             'Jam18\\PhpAlgorithms\\' => 20,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
+        'Jam18\\StructureTemplates\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/structureTemplates/src',
+        ),
         'Jam18\\PhpAlgorithms\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',

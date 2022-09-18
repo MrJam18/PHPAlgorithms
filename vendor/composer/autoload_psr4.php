@@ -6,5 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Jam18\\StructureTemplates\\' => array($baseDir . '/structureTemplates/src'),
     'Jam18\\PhpAlgorithms\\' => array($baseDir . '/src'),
 );

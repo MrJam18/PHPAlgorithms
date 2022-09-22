@@ -4,8 +4,9 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Jam18\\PhpAlgorithms\\": "src/",
-            "Jam18\\StructureTemplates\\": "structureTemplates/src/"
+            "Jam18\\ParentTemplates\\": "parentTemplates/src/",
+            "Jam18\\StructureTemplates\\": "structureTemplates/src/",
+            "Jam18\\BehavioralTemplates\\": "behavioralTemplates/src/"
         }
     },
     "authors": [
@@ -15,6 +16,8 @@
         }
     ],
     "require": {
-        "ext-pdo": "*"
+        "ext-pdo": "*",
+        "ext-mbstring": "*",
+        "monolog/monolog": "^3.2"
     }
 }

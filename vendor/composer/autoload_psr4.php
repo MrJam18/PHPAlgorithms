@@ -6,6 +6,9 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
+    'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'Jam18\\StructureTemplates\\' => array($baseDir . '/structureTemplates/src'),
-    'Jam18\\PhpAlgorithms\\' => array($baseDir . '/src'),
+    'Jam18\\ParentTemplates\\' => array($baseDir . '/parentTemplates/src'),
+    'Jam18\\BehavioralTemplates\\' => array($baseDir . '/behavioralTemplates/src'),
 );

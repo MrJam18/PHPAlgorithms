@@ -7,21 +7,42 @@ namespace Composer\Autoload;
 class ComposerStaticInit0e0b6af5dd2e4e770b76a8e944048c28
 {
     public static $prefixLengthsPsr4 = array (
+        'P' => 
+        array (
+            'Psr\\Log\\' => 8,
+        ),
+        'M' => 
+        array (
+            'Monolog\\' => 8,
+        ),
         'J' => 
         array (
             'Jam18\\StructureTemplates\\' => 25,
-            'Jam18\\PhpAlgorithms\\' => 20,
+            'Jam18\\ParentTemplates\\' => 22,
+            'Jam18\\BehavioralTemplates\\' => 26,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/src',
+        ),
+        'Monolog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+        ),
         'Jam18\\StructureTemplates\\' => 
         array (
             0 => __DIR__ . '/../..' . '/structureTemplates/src',
         ),
-        'Jam18\\PhpAlgorithms\\' => 
+        'Jam18\\ParentTemplates\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/parentTemplates/src',
+        ),
+        'Jam18\\BehavioralTemplates\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/behavioralTemplates/src',
         ),
     );
 

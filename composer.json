@@ -6,7 +6,8 @@
         "psr-4": {
             "Jam18\\ParentTemplates\\": "parentTemplates/src/",
             "Jam18\\StructureTemplates\\": "structureTemplates/src/",
-            "Jam18\\BehavioralTemplates\\": "behavioralTemplates/src/"
+            "Jam18\\BehavioralTemplates\\": "behavioralTemplates/src/",
+            "": "industrialTemplates/src/"
         }
     },
     "authors": [

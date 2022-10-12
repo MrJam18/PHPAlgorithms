@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/behavioralTemplates/src" isTestSource="false" packagePrefix="Jam18\BehavioralTemplates\" />
       <sourceFolder url="file://$MODULE_DIR$/parentTemplates/src" isTestSource="false" packagePrefix="Jam18\ParentTemplates\" />
       <sourceFolder url="file://$MODULE_DIR$/industrialTemplates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structuresAndAlgorithms/src" isTestSource="false" packagePrefix="Jam18\StructuresAndAlgorithms\" />
+      <sourceFolder url="file://$MODULE_DIR$/sortAndSearch/src" isTestSource="false" packagePrefix="Jam18\SortAndSearch\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />

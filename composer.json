@@ -7,7 +7,9 @@
             "Jam18\\ParentTemplates\\": "parentTemplates/src/",
             "Jam18\\StructureTemplates\\": "structureTemplates/src/",
             "Jam18\\BehavioralTemplates\\": "behavioralTemplates/src/",
-            "": "industrialTemplates/src/"
+            "": "industrialTemplates/src/",
+            "Jam18\\StructuresAndAlgorithms\\": "structuresAndAlgorithms/src/",
+            "Jam18\\SortAndSearch\\": "sortAndSearch/src/"
         }
     },
     "authors": [
